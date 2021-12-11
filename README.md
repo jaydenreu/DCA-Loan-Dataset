@@ -9,3 +9,5 @@ Data processing involved cleaning the data by removing extraneous columns and cl
 rows with missing values ommitted.
 
 A Power BI dashboard was created in order to visualize the cleaned data.
+
+Data was retrieved from https://catalog.data.gov/dataset/development-credit-authority-dca-data-set-loan-transactions-a8dbe
